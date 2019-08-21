@@ -1,0 +1,7 @@
+C:\Users\matth\source\repos\GroupWallSpammer\GroupWallSpammer\bin\Debug\GroupWallSpammer.exe.config
+C:\Users\matth\source\repos\GroupWallSpammer\GroupWallSpammer\bin\Debug\GroupWallSpammer.exe
+C:\Users\matth\source\repos\GroupWallSpammer\GroupWallSpammer\bin\Debug\GroupWallSpammer.pdb
+C:\Users\matth\source\repos\GroupWallSpammer\GroupWallSpammer\obj\Debug\GroupWallSpammer.csprojAssemblyReference.cache
+C:\Users\matth\source\repos\GroupWallSpammer\GroupWallSpammer\obj\Debug\GroupWallSpammer.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\GroupWallSpammer\GroupWallSpammer\obj\Debug\GroupWallSpammer.exe
+C:\Users\matth\source\repos\GroupWallSpammer\GroupWallSpammer\obj\Debug\GroupWallSpammer.pdb
